@@ -1,0 +1,26 @@
+body{
+  background-color: yellow;
+}
+.App-time {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.time{
+  color: black;
+  text-align: center;
+  margin-top: 200px;
+  font-size: 100px;
+}
+.text{
+  text-align: center;
+  margin-top: -200px;
+  font-size: 50px;
+  color: green;
+}
+.clock{
+  width: 65px;
+  height: 65px;
+  border: none ;
+  border-radius: 50%;
+}
